@@ -1,4 +1,4 @@
-// tests/google_test.js
+// tests/uc01.google.js
 
 module.exports = {
   "Demo test Google": function (browser) {
